@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "568665890013",
+    "project_id": "presence-5bf07",
+    "storage_bucket": "presence-5bf07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568665890013:android:a1b03a10d71a0e419acf34",
+        "android_client_info": {
+          "package_name": "com.example.presence_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568665890013-hbui01e1kllitu5a6n0eb3615pe831jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPyprWrIoaOWA078fiPpXqrB7VdNuLfJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568665890013-hbui01e1kllitu5a6n0eb3615pe831jf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568665890013-2ldnm2uilkl4pbvc6fkqfpkg5o7j1viv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.presenceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568665890013:android:f30ec8243c15a1dd9acf34",
+        "android_client_info": {
+          "package_name": "com.presence.app.presence_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568665890013-hbui01e1kllitu5a6n0eb3615pe831jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPyprWrIoaOWA078fiPpXqrB7VdNuLfJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568665890013-hbui01e1kllitu5a6n0eb3615pe831jf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568665890013-2ldnm2uilkl4pbvc6fkqfpkg5o7j1viv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.presenceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
